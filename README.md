@@ -9,7 +9,7 @@ Soy un desarrollador entusiasta con un gran interés en la tecnología y la prog
 ## Habilidades
 
 - Lenguajes de programación: Python
-- Frameworks y bibliotecas:
+- Frameworks y bibliotecas: Reflex
 - Bases de datos:
 - Herramientas de desarrollo: Git
 
