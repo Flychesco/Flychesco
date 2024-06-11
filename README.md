@@ -32,7 +32,7 @@ En Proceso......
 
 - [Sitio web personal](JavierLorDev.com)
 
-¡Espero poder colaborar contigo en el futuro![Contactame]
+¡Espero poder colaborar contigo en el futuro! [Contactame]
 
 [Contactame]:Javierlordev@gmail.com
 
