@@ -1,8 +1,5 @@
-<p align="right"> <img src="Logo.jpeg" /></p>
 <h1 align="center">¡Hola, Soy JavierLorDev!</h1>
-
-
-![Imagen](Logo.jpeg)
+<p align="center"> <img src="Logo.jpeg" /></p>
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarroyador junior en Python intentando formarme cada dia.
 
@@ -23,7 +20,7 @@
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="19" />
 </div>
 
 ![Imagen](Logo3.jpeg)
