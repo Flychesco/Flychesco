@@ -7,13 +7,18 @@
 ## Sobre mí
 
 ***Soy un desarrollador entusiasta con un gran interés en la tecnología y la programación. Me encanta trabajar en nuevos proyectos y aprender nuevas cosas cada día.***
+<br>
 
-## Habilidades
+## 🛠 &nbsp;Stacks
 
-- Lenguajes de programación: Python
-- Frameworks y bibliotecas: Reflex
-- Bases de datos:
-- Herramientas de desarrollo: Git
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=git)&nbsp;
+![Reflex](https://img.shields.io/badge/-Reflex-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
 
 ![Imagen](Logo3.jpeg)
 
