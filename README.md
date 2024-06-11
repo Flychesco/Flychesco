@@ -1,10 +1,12 @@
-# ¡Hola, Soy JavierLorDev! 👋
+# ¡Hola, Soy JavierLorDev!
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en diversas tecnologías. Aquí encontrarás una variedad de proyectos en los que he estado trabajando.
+![Imagen](Logo.jpeg)
+
+¡Bienvenido a mi perfil de GitHub! Soy un desarroyador junior en Python intentando formarme cada dia.
 
 ## Sobre mí
 
-Soy un desarrollador entusiasta con un gran interés en la tecnología y la programación. Me encanta trabajar en proyectos desafiantes y aprender nuevas cosas cada día.
+***Soy un desarrollador entusiasta con un gran interés en la tecnología y la programación. Me encanta trabajar en nuevos proyectos y aprender nuevas cosas cada día.***
 
 ## Habilidades
 
@@ -13,22 +15,22 @@ Soy un desarrollador entusiasta con un gran interés en la tecnología y la prog
 - Bases de datos:
 - Herramientas de desarrollo: Git
 
+![Imagen](Logo2.jpeg)
+
 ## Proyectos 
 
-
+En Proceso......
+......
+......
 
 ## Contáctame
 
 ¡No dudes en ponerte en contacto conmigo! Puedes encontrarme en:
 
+# https://github.com/Flychesco.      # Javierlordev@gmail.com 
 
 - [Sitio web personal](JavierLorDev.com)
 
-¡Espero poder colaborar contigo en el futuro!
+¡Espero poder colaborar contigo en el futuro![Contactame]
 
-## Logo
-
-Aquí tienes el logo de mi perfil:
-
-![Imagen](Logo.jpeg)
-
+[Contactame]: Javierlordev@gmail.com
