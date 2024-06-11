@@ -27,10 +27,11 @@ En Proceso......
 
 ¡No dudes en ponerte en contacto conmigo! Puedes encontrarme en:
 
-# https://github.com/Flychesco.      # Javierlordev@gmail.com 
+# https://github.com/Flychesco.      
+# Javierlordev@gmail.com 
 
 - [Sitio web personal](JavierLorDev.com)
 
 ¡Espero poder colaborar contigo en el futuro![Contactame]
 
-[Contactame]: Javierlordev@gmail.com
+[Contactame]:Javierlordev@gmail.com
