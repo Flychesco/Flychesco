@@ -30,10 +30,10 @@ En Proceso......
 # https://github.com/Flychesco.      
 # Javierlordev@gmail.com 
 
-- [Sitio web personal](JavierLorDev.com)
+- [Sitio web personal](https://github.com/Flychesco)
 
 ¡Espero poder colaborar contigo en el futuro! [Contactame]
 
-[Contactame]:Javierlordev@gmail.com
+[Contactame]:https://github.com/Flychesco
 
 ![Imagen](Logo2.jpeg)
