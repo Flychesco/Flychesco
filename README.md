@@ -1,4 +1,6 @@
-# ¡Hola, Soy JavierLorDev!
+<p align="right"> <img src="Logo.jpeg" /></p>
+<h1 align="center">¡Hola, Soy JavierLorDev!</h1>
+
 
 ![Imagen](Logo.jpeg)
 
