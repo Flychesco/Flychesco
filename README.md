@@ -15,7 +15,7 @@
 - Bases de datos:
 - Herramientas de desarrollo: Git
 
-![Imagen](Logo2.jpeg)
+![Imagen](Logo3.jpeg)
 
 ## Proyectos 
 
@@ -35,3 +35,5 @@ En Proceso......
 ¡Espero poder colaborar contigo en el futuro![Contactame]
 
 [Contactame]:Javierlordev@gmail.com
+
+![Imagen](Logo2.jpeg)
