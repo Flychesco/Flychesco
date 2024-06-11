@@ -11,8 +11,8 @@
 
 ## 🛠 &nbsp;TECNOLOGIAS
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=git)&nbsp;
-![Reflex](https://img.shields.io/badge/-Reflex-05122A?style=flat&logo=git)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Reflex](https://img.shields.io/badge/-Reflex-05122A?style=flat&logo=reflex)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
