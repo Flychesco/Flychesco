@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, Soy JavierLorDev!</h1>
 <p align="center"> <img src="Logo.jpeg" /></p>
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarroyador junior en Python intentando formarme cada dia.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador junior en Python intentando formarme cada dia.
 
 ## Sobre mí
 
