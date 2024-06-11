@@ -9,7 +9,7 @@
 ***Soy un desarrollador entusiasta con un gran interés en la tecnología y la programación. Me encanta trabajar en nuevos proyectos y aprender nuevas cosas cada día.***
 <br>
 
-## 🛠 &nbsp;Stacks
+## 🛠 &nbsp;TECNOLOGIAS
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=git)&nbsp;
 ![Reflex](https://img.shields.io/badge/-Reflex-05122A?style=flat&logo=git)&nbsp;
