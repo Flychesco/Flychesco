@@ -22,7 +22,7 @@ Soy un desarrollador entusiasta con un gran interés en la tecnología y la prog
 ¡No dudes en ponerte en contacto conmigo! Puedes encontrarme en:
 
 
-- [Sitio web personal](JavierLorDev.con)
+- [Sitio web personal](JavierLorDev.com)
 
 ¡Espero poder colaborar contigo en el futuro!
 
