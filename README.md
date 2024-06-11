@@ -30,5 +30,5 @@ Soy un desarrollador entusiasta con un gran interés en la tecnología y la prog
 
 Aquí tienes el logo de mi perfil:
 
-![Logo](OIG2 (5).jpeg)
+![Imagen](Logo.jpeg)
 
